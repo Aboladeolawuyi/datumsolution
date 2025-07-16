@@ -1,0 +1,1 @@
+import{_ as o,c as t,o as a,b as c,l as n}from"./index-CDflEGxG.js";const s={},r={class:"layout-wrapper layout-blank","data-allow-mismatch":""};function l(_,i){const e=n("RouterView");return a(),t("div",r,[c(e)])}const p=o(s,[["render",l]]);export{p as default};
